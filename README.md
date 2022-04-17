@@ -1,16 +1,11 @@
-# food_apps
+Halaman Login
+![image](https://user-images.githubusercontent.com/89457526/163720768-ee474570-e920-408f-8177-f6017ce3b00b.png)
 
-A new Flutter project.
+Halaman Home
+![image](https://user-images.githubusercontent.com/89457526/163720786-d3e7f927-ac79-4721-8ab8-952c0b5ee07f.png)
 
-## Getting Started
+Halaman Detail
+![image](https://user-images.githubusercontent.com/89457526/163720798-db9c3bb3-771e-40f7-ad92-5ab98100c82f.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Halaman Konfirmasi Pesanan
+![image](https://user-images.githubusercontent.com/89457526/163720816-c74e365e-b425-4f49-8858-09a48fc9e693.png)
