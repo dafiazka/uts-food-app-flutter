@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602299740119",
+    "project_id": "foodapp-8e67f",
+    "storage_bucket": "foodapp-8e67f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602299740119:android:808b1d5ca20c82f1632592",
+        "android_client_info": {
+          "package_name": "com.example.food_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602299740119-e62mjgvvapbl8f1u6raeaci588ejm4g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd-RSM1A-2xhc5-QF8TYBUs-mTsmK0sUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602299740119-e62mjgvvapbl8f1u6raeaci588ejm4g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
