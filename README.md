@@ -1,3 +1,6 @@
+Figma
+![WhatsApp Image 2022-04-17 at 22 31 26](https://user-images.githubusercontent.com/89457526/163721456-b977c8bf-3367-4136-a9c9-0d7edd577a8f.jpeg)
+
 Halaman Login
 ![image](https://user-images.githubusercontent.com/89457526/163720768-ee474570-e920-408f-8177-f6017ce3b00b.png)
 
